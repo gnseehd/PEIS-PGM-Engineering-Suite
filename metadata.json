@@ -1,0 +1,8 @@
+{
+  "name": "PEIS: PGM Engineering Suite",
+  "description": "Smart Engineering Integrated Suite for PGM design, analysis, and test automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
